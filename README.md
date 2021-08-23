@@ -1,2 +1,2 @@
 # ImageConverter
-# for converting image into different formats.
+for converting image into different formats.
